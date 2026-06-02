@@ -33,9 +33,3 @@ I'm Rodrigo Lima Rodrigues from Porto Alegre, RS, Brasil
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Python](https://skillicons.dev/icons?i=python)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER\&layout=compact\&theme=tokyonight)
