@@ -1,13 +1,5 @@
-## 📫 Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](LINK)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](LINK)
-```md id="xmtm67"
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rodrigolr23&label=visitors&color=blue&style=flat"/>
-</p>
-```
-
 
 ## Yoo, welcome 👾
 
