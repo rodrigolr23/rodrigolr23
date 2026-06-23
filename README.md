@@ -22,7 +22,6 @@ I'm Rodrigo Lima Rodrigues from Porto Alegre, RS, Brasil
 
 - 💻 Full Stack Developer
 - 🎓 Computer Science Student
-- 📊 Strong interest in Data Analysis, Cybersecurity and Systems Development
 - ⚡ Focused on software development, data and security
 
 ## 🛠️ Tech Stack
